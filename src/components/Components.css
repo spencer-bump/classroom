@@ -3,7 +3,7 @@
   width: 100%;
 }
 .left-side {
-  /*background-color: lightblue;*/
+  background-color: lightblue;
 }
 
 .left-main {
@@ -16,10 +16,10 @@
   height: 100vh;
 }
 
-.left-instructor {
+.left-teacher {
   /*background-color: lightgreen;*/
-  /*background-image: url(../images/education.jpg);
-  background-repeat: no-repeat;*/
+  background-image: url(../images/education.jpg);
+  background-repeat: no-repeat;
   height: 100vh;
 }
 
