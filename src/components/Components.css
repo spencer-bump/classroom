@@ -1,0 +1,28 @@
+.right-side {
+  background-color: lightgrey;
+  width: 100%;
+}
+.left-side {
+  /*background-color: lightblue;*/
+}
+
+.left-main {
+  /*background-color: lightgreen;*/
+  height: 100vh;
+}
+
+.left-other {
+  /*background-color: pink;*/
+  height: 100vh;
+}
+
+.left-instructor {
+  /*background-color: lightgreen;*/
+  /*background-image: url(../images/education.jpg);
+  background-repeat: no-repeat;*/
+  height: 100vh;
+}
+
+/*.ui.secondary.pointing.menu {
+  background-color: lightgreen;
+}*/
