@@ -3,7 +3,7 @@ import './Components.css';
 
 const Sidebar = () => {
   return (
-    <div className="">
+    <div className="sidebar">
     <h3 className="ui header">Links</h3>
     <div className="ui relaxed divided list">
       <div className="item">

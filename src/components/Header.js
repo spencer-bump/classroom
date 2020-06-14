@@ -15,7 +15,9 @@ const Header = () => {
         Assignments / Exams
       </Link>
       <div className="right menu">
-        Spencer Eldred
+        <Link to="/instructor" className="item" >
+          Mr. Eldred
+        </Link>
       </div>
     </div>
   );

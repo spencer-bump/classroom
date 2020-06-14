@@ -30,7 +30,7 @@ class App extends React.Component {
                   component={Homework} />
               </Switch>
             </div>
-            <div className="right-side six wide column">
+            <div className="right-side six wide column ">
               <Sidebar />
             </div>
           </div>

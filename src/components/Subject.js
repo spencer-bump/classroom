@@ -4,7 +4,7 @@ import './Components.css';
 
 const Subject = () => {
   return (
-    <div className="left-main" >
+    <div className="subject" >
       <h2 className="ui header">Algebra 1</h2>
       <ul>
         <li>Teacher: Spencer Eldred</li>

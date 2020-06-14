@@ -4,7 +4,7 @@ import './Components.css';
 
 const Homework = () => {
   return (
-    <div className="left-other" >
+    <div className="homework" >
       <h2 className="ui header">Assignments / Exams</h2>
       <ul>
         <li><h3 className="ui header">Assignments / Homework</h3></li>

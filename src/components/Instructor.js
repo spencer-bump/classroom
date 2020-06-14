@@ -5,7 +5,7 @@ import photo from '../images/Spencer_Portrait.jpg';
 
 const Instructor = () => {
   return (
-    <div className="left-teacher">
+    <div className="teacher">
       <h2 className="ui header">Teacher</h2>
       <ul>
         <li><h3 className="ui header">Spencer Eldred</h3><img className="ui small image" src={photo} /></li>
