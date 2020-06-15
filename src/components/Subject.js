@@ -5,7 +5,7 @@ import './Components.css';
 const Subject = () => {
   return (
     <div className="subject" >
-      <h2 className="ui header">Algebra 1</h2>
+      <h2 className="ui header">Math Subject TBD</h2>
       <ul>
         <li>Teacher: Spencer Eldred</li>
         <li>School: King Kekaulike High School (not hired yet)</li>

@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom'
 
 const Header = () => {
   return (
-    <div className="ui  pointing menu" >
+    <div className="ui pointing menu" >
       <Link to="/" className="item" >
-        Algebra 1
+        Subject
       </Link>
       <Link to="/instructor" className="item" >
         Teacher

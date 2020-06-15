@@ -17,7 +17,7 @@ class App extends React.Component {
         <Router history={history}>
           <Header />
           <div className="ui container grid">
-            <div className="left-side ten wide column">
+            <div className="ten wide column">
               <Switch>
                 <Route
                   path="/" exact
@@ -30,7 +30,7 @@ class App extends React.Component {
                   component={Homework} />
               </Switch>
             </div>
-            <div className="right-side six wide column ">
+            <div className="six wide column ">
               <Sidebar />
             </div>
           </div>
